@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://abotearo.github.io/MAF/sitemap_index.txt
+Sitemap: https://abotearo.github.io/Myk/sitemap_index.txt
+Sitemap: https://abotearo.github.io/UWV/sitemap_index.txt
+Sitemap: https://abotearo.github.io/wnb/sitemap_index.txt
